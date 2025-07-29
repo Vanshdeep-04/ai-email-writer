@@ -39,7 +39,7 @@ Choose between **Professional**, **Friendly**, or **Casual** tones and let AI do
 ---
 
 ## 📂 Project Structure
-'''
+```
 ai-email-writer/
 │
 ├── backend/                     # Spring Boot Backend (REST API for AI-generated replies)
@@ -67,7 +67,7 @@ ai-email-writer/
 │   └── README.md                # Extension-specific documentation
 │
 └── README.md                    # Main project documentation
-'''
+```
 
 ## Installation & Setup
 1️⃣ **Clone the repository**
